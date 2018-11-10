@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/juanp/Desktop/a/NewProject_01/cmake-build-debug/ArbolAVL_01.h">
+			<Option target="NewProject_01"/>
+		</Unit>
+		<Unit filename="C:/Users/juanp/Desktop/a/NewProject_01/cmake-build-debug/NodoArbolAVL_01.h">
+			<Option target="NewProject_01"/>
+		</Unit>
 		<Unit filename="C:/Users/juanp/Desktop/a/NewProject_01/codifica.cpp">
 			<Option target="NewProject_01"/>
 		</Unit>

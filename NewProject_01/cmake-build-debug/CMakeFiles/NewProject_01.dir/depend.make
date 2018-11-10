@@ -4,7 +4,6 @@
 CMakeFiles/NewProject_01.dir/codifica.cpp.obj: ../codifica.cpp
 CMakeFiles/NewProject_01.dir/codifica.cpp.obj: ../codifica.h
 
-CMakeFiles/NewProject_01.dir/main.cpp.obj: ../codifica.cpp
 CMakeFiles/NewProject_01.dir/main.cpp.obj: ../codifica.h
 CMakeFiles/NewProject_01.dir/main.cpp.obj: ../main.cpp
 

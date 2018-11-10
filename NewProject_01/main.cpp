@@ -2,12 +2,13 @@
 #include <string>
 #include <fstream>
 #include <stdlib.h>
-#include "codifica.cpp"
+#include "codifica.h"
 
 
 int main() {
     codifica Cod;
 
-    cout << "Bienvenido al CODIFICADOR F-J\n Presione ENTER para continuar" << endl;
+    cout << "Bienvenido al CODIFICADOR F-J" << endl;
+    system("pause");
     Cod.Opciones();
 }

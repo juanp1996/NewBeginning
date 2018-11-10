@@ -36,6 +36,7 @@ class codifica {
         void SetFile(int);
         void Numeracion_Dic ();
         void Numeracion_Men();
+        void Ver(int);
     };
 
 

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/juanp/Desktop/a/NewProject_01/codifica.cpp
+iostream
+-
+string
+-
+fstream
+-
+cstdlib
+-
+cstring
+-
+sstream
+-
+codifica.h
+C:/Users/juanp/Desktop/a/NewProject_01/codifica.h
+
+C:/Users/juanp/Desktop/a/NewProject_01/codifica.h
+
+C:/Users/juanp/Desktop/a/NewProject_01/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+stdlib.h
+-
+codifica.cpp
+C:/Users/juanp/Desktop/a/NewProject_01/codifica.cpp
+

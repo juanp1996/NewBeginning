@@ -1,0 +1,3 @@
+C:/Users/juanp/Desktop/a/NewProject_01/cmake-build-debug/CMakeFiles/NewProject_01.dir
+C:/Users/juanp/Desktop/a/NewProject_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juanp/Desktop/a/NewProject_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
